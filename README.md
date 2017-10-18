@@ -11,6 +11,7 @@
 
 ```
 此时打开 localhost:4000/login,就可以看到我写好的例子了。
+localhost换成电脑的ip
 ctrl + c可以终止服务，改完代码后不用重新起动服务
 
 ```
@@ -30,3 +31,8 @@ Error: No default engine was specified and no extension was provided.
   ```
 
 当出现上述错误的时候，是应为你的路由没有找到造成的
+
+###学习更多
+
+如果你想学习更多请参考express api
+https://expressjs.com/en/4x/api.html#res.sendFile 
